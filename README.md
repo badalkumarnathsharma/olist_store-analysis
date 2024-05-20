@@ -27,6 +27,23 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 
 5.Provide some recommendations and improvements
 
+**Olist Data**
+
+The Olist dataset consists of information (customers, reviews, products etc..) on 100k orders on Olist Store.
+
+9 csv (~120mb) are available and can be downloaded here. We recommend placing them under the data folder.
+
+Data Model
+olist_customers_dataset		
+olist_geolocation_dataset
+olist_order_items_dataset
+olist_order_payments_dataset
+olist_order_reviews_dataset
+olist_orders_dataset
+olist_products_dataset
+olist_sellers_dataset
+product_category_name_translation
+
 
 **Analysis**
 
