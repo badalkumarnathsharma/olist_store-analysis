@@ -8,6 +8,7 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 
 **Objective**
 1.Create data pipeline to ingest data in PostgreSQL or SQL server database
+
 2.Use Power BI to answer following questions:
     • How many customers, orders, and orders per customer does the company have?
     • What is the number of customers by state?
